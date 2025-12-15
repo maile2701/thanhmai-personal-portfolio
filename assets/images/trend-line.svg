@@ -1,0 +1,21 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background (optional, remove if transparent needed) -->
+  <rect width="512" height="512" rx="40" fill="#1E1E1E"></rect>
+
+  <!-- Trend line -->
+  <path d="M96 336
+       L192 256
+       L288 304
+       L384 176" stroke="#F5D27A" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"></path>
+
+  <!-- Arrow head -->
+  <path d="M360 176
+       L384 176
+       L384 200" stroke="#F5D27A" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"></path>
+
+  <!-- Data points -->
+  <circle cx="96" cy="336" r="10" fill="#F5D27A"></circle>
+  <circle cx="192" cy="256" r="10" fill="#F5D27A"></circle>
+  <circle cx="288" cy="304" r="10" fill="#F5D27A"></circle>
+  <circle cx="384" cy="176" r="10" fill="#F5D27A"></circle>
+</svg>
